@@ -30,12 +30,12 @@ html {
   align-items: center;
   justify-content: center;
   font-family: Roboto, sans-serif;
-  font-size: 40px;
+  font-size: 30px;
   width: 100%;
   height: 40%;
 }
 #content .links {
-  width: 450px;
+  width: 600px;
 }
 #content .links h1 {
   font-size: 1.2em;
