@@ -37,6 +37,12 @@ html {
 #content .links {
   width: 450px;
 }
+#content .links h1 {
+  font-size: 1.2em;
+  margin: 10px;
+  text-align: center;
+  font-weight: 100;
+}
 #content .links a {
   display: flex;
   align-items: start;
@@ -61,7 +67,7 @@ html {
   align-items: center;
   margin: 0px auto;
   box-sizing: border-box;
-    padding: 0px;
+  padding: 0px;
 }
 #footer .kbpqkG .jNbfsA {
   display: inline-block;
